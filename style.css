@@ -50,9 +50,6 @@ body {
     }
 }
 
-
-
-
 /* Header */
 header {
     background: #C4E1F6;
@@ -165,7 +162,7 @@ section {
 
 .project-card {
     background: #fceaa4;
-    color: black;
+    color: #000000;
     padding: 15px;
     border-left: 5px solid #ffcc00;
     border-radius: 8px;
