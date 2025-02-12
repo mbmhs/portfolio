@@ -8,7 +8,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #C5D3E8;
-    color: #333;
+    color: #000000;
 }
 
 /* Greeting box */
@@ -165,7 +165,8 @@ section {
 
 .project-card {
     background: #fceaa4;
-    color:black;
+project-card-update
+    color: #000000;
     padding: 15px;
     border-left: 5px solid #ffcc00;
     border-radius: 8px;
